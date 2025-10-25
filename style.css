@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&display=swap');
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    box-sizing: border-box;
+    list-style: none;
+}
+body{
+    font-family: 'Baloo Bhai 2', cursive;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #eaeded;
+}
